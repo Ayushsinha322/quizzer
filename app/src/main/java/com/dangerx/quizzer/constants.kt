@@ -64,7 +64,7 @@ object constants {
             R.drawable.messi,
             "8", "7",
             "2", "5",
-            8,
+            1,
         )
         questionsList.add(que6)
 
@@ -104,3 +104,4 @@ object constants {
 
     }
 }
+///
